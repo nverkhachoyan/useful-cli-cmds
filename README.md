@@ -4,4 +4,4 @@ I'm listing some unix cli tools that I find useful and their simple usages. This
 
 - [gnu-tar](gnu-tar.md) 
 - [ln](ln.md) 
-
+- [lsof](lsof.md)
